@@ -53,7 +53,7 @@ unsafe(0);
 		@#alchemyy = %YPOS%;
 		@#alchemyz = %ZPOS%;
 		log("&caph Alchemy &1>&7 Here comes the complicated but not so complicated part of the setup.");
-		log("&caph Alchemy &1>&7 First\, look at your potion chest. This is a &dfree&7 script\, and only supports &done&7 brewing stand. Please press &dCONTROL&7 once you are looking at the brewing stand. Press &dSHIFT&7 to cancel the setup at any time.");
+		log("&caph Alchemy &1>&7 First\, look at your potion chest. This is a &dfree&7 script\, and only supports &done&7 brewing stand. Please press &dCONTROL&7 once you are looking at the potion chest. Press &dSHIFT&7 to cancel the setup at any time.");
 		unset(&macro);
 		unset(#i);
 		split(",","potion chest,brewing stand,trash area",&settings[]);
@@ -67,6 +67,7 @@ unsafe(0);
 				endif;
 				log("&caph Alchemy &1>&7 Saved look position for %&settings[%#i%]%");
 				inc(#i);
+				log("&caph Alchemy &1>&7 Now look at your &d%&settings[%#i%]%&7 and press &dCONTROL&7.")
 				do;
 					wait(1t);
 				until(!CTRL);
