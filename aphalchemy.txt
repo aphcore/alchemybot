@@ -1,25 +1,3 @@
-//Potion brewer for Hypixel SkyBlock.;
-//Made to be used with MacroMod.;
-//Do not DM me for help with installation.;
-//Do DM me for bug fixes.;
-
-//Made with love by: https://github.com/aphinqq;
-//aph#0001 on discord.;
-
-//Pwease don't sell mwy Hwypixel Skwybwock Alchemy Scwipt;
-//If you use this script to learn, and decide to start selling please credit, doesn't have to be much.;
-//If you also use parts of this script (other than simple stuff) also please credit me.;
-
-//Instructions:;
-//;
-//If you don't know how to install a MacroMod script then this isn't for you.;
-//I do not provide support on my free scripts.;
-
-//Do /setspawn next to a brewing stand, chest full of water bottles, and a trash area to throw things into the void.;
-//Next, put enchanted cane, and wart in your inventory with at least 4 empty slots.;
-//Then start the script bozo;
-
-//I made this in like 1~2h my code is kinda bad but its fineeee!;
 unsafe(0);
 	log("&caph Alchemy &1>&7 Started the alchemy script. Please join the discord server at https://aphcore.com/hcm/ for support.");
 	foreach(running);
