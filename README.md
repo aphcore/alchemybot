@@ -1,7 +1,7 @@
 # aph Alchemy
 Alchemy script for Minecraft singleplayer. (May also work on certain multiplayer servers)
 
-
+Support server: https://aphcore.com/hcm/
 MacroMod Tutorial: https://www.youtube.com/watch?v=fNfj2F8Gilg&list=PLQ1oeCLHyXfiSKqOeyeBu27ZkN-a9gl__&ab_channel=Lezappen
 ```
 Usage instructions: (Assuming previous knowledge of MacroMod)
@@ -37,4 +37,4 @@ Finally, execute the script.
 Made in 2 hours, if you have any suggestions please join the "support" server. :)
 ```
 
-Support server: https://aphcore.com/hcm/
+Support server 2x: https://aphcore.com/hcm/
