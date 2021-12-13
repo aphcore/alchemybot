@@ -45,7 +45,9 @@ unsafe(0);
 				endif;
 				log("&caph Alchemy &1>&7 Saved look position for %&settings[%#i%]%");
 				inc(#i);
-				log("&caph Alchemy &1>&7 Now look at your &d%&settings[%#i%]%&7 and press &dCONTROL&7.")
+				if(#i >= 3)
+					log("&caph Alchemy &1>&7 Now look at your &d%&settings[%#i%]%&7 and press &dCONTROL&7.")
+				endif;
 				do;
 					wait(1t);
 				until(!CTRL);
