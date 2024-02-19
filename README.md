@@ -22,7 +22,7 @@ Do NOT DM me for installation help.
 DO DM me bugs.
 
 Made with love by: https://github.com/aphinqq
-aph#0001 | 828490280021655583 on Discord.
+@aphinqq | 239596994438496258 on Discord.
 @aphinqq on Telegram
 
 Made for non-commercial use.
