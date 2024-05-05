@@ -1,5 +1,5 @@
 # aph Alchemy
-Alchemy script for Minecraft singleplayer. (May also work on certain multiplayer servers)
+Alchemy script for Hypixel Skyblock.
 
 
 Support: @aphinqq on Telegram
@@ -16,7 +16,7 @@ Usage instructions: (Assuming previous knowledge of MacroMod)
 
 Previous in-game notes: 
 
-Potion brewer (may work on servers)
+Potion brewer
 Made for use with MacroMod
 Do NOT DM me for installation help.
 DO DM me bugs.
@@ -31,11 +31,11 @@ If you use parts of this script for your free script please credit me. (Link Git
 In-game instructions:
 
 If you do not know how to install a MacroMod script then this free script isn't for you.
-I do not provide support on my free scripts. (Unless you can catch me on a good day)
+I do not provide support on my free scripts.
 
 Do "/setspawn" next to a brewing stand, chest full of water bottles, and a trash area to throw things into the void.
 Next, put enchanted cane and wart into your inventory with at least 4 empty slots. (The script will stop after it has used all Enchanted Sugar Cane and Netherwart)
 Finally, execute the script.
 
-Made in 2 hours, if you have any suggestions please DM me on discord or telegram.
+Made in 2 hours, if you have any suggestions please DM me on telegram.
 ```
